@@ -3,17 +3,24 @@ Sparse Unmixing using Archetypal Analysis (SUnAA) is an innovative semi-supervis
 
 ## Installation instructions
 
-1. We recommend using `conda` to install the package, as follows:
+1. Clone the repository and move to the repository
+
+```shell
+git clone <repository>
+cd SUnAA
+```
+
+2. We recommend using `conda` to install the package, as follows:
 
 ```shell
 conda create --name sunaa python=3.10
 ```
-2. Activate your freshly created environment
+3. Activate your freshly created environment
 ```shell
 conda activate sunaa
 ```
 
-3. Install the required python packages:
+4. Install the required python packages:
 ```shell
 pip install -r requirements.txt
 ```
