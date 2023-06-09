@@ -8,12 +8,17 @@ Sparse Unmixing using Archetypal Analysis (SUnAA) is an innovative semi-supervis
 ```shell
 conda create --name sunaa python=3.10
 ```
+2. Activate your freshly created environment
+```shell
+conda activate sunaa
+```
 
-2. Install the required python packages as follows:
+3. Install the required python packages:
 ```shell
 pip install -r requirements.txt
 ```
-In case you face some issues regarding the installation of `spams`, we recommend installing it from source using the instructions found on the official PyPI [package website](https://pypi.org/project/spams/). For windows users, we suggest removing the line 4 in the requirements.txt (spams==2.6.5.4) and after installing the requirements, install spams using `pip install spams-bin`.
+* In case you face some issues regarding the installation of `spams`, we recommend installing it from source using the instructions found on the official PyPI [package website](https://pypi.org/project/spams/).
+* For windows users, we suggest removing the line 4 in the requirements.txt (spams==2.6.5.4) and after installing the requirements, install spams using `pip install spams-bin`.
 
 ## Running the demo
 
