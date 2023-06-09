@@ -6,7 +6,7 @@ Sparse Unmixing using Archetypal Analysis (SUnAA) is an innovative semi-supervis
 1. Clone the repository and move to the repository
 
 ```shell
-git clone <repository>
+git clone git@github.com:BehnoodRasti/SUnAA.git
 cd SUnAA
 ```
 
