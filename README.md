@@ -3,6 +3,7 @@ Sparse Unmixing using Archetypal Analysis (SUnAA) is an innovative semi-supervis
 
 ## Citation
 If you use this code please cite the following paper
+
 B. Rasti, A. Zouaoui, J. Mairal and J. Chanussot, "SUnAA: Sparse Unmixing using Archetypal Analysis," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2023.3284221.
 
 ## Installation instructions
